@@ -3,7 +3,7 @@
     padding: 0;
 }
 .cabecalho{
-background-color:#10D9FA ;
+background-color:#10D9FA;
 color: #FFFFFF;
 display: flex;
 justify-content: space-around;
@@ -23,4 +23,24 @@ padding: 24px 0;
 }
 .cabecalho-titulo{
     padding: 20px 0;
+}
+.escola-imagem{
+    width: 15%;
+}
+.escola{
+    background-image: linear-gradient(#10D9FA, #94B6BB);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+.escola-titulo{
+    padding: 24px 0;
+}
+.escola-texto-um{
+    padding: 24px 0;
+}
+.escola-div-conteudo{
+    width: 35%;
 }
