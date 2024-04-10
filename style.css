@@ -2,6 +2,9 @@
     margin: 0;
     padding: 0;
 }
+body{
+    font-family: "Poppins", sans-serif;
+}
 .cabecalho{
 background-color:#10D9FA;
 color: #FFFFFF;
@@ -43,4 +46,14 @@ padding: 24px 0;
 }
 .escola-div-conteudo{
     width: 35%;
+}
+.ferramentas-imagem{
+    width: 150px;
+}
+.ferramentas-icone{
+    width: 24px;
+}
+.ferramentas-div{
+    text-align: center;
+    padding: 16px 0;
 }
